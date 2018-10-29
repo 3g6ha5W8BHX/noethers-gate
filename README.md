@@ -46,7 +46,7 @@ Only XMR transactions are currently supported, but adding another currencies is 
 
 ## Donate
 Want to try Noether's Gate? Send me some donation, so I can pay for the server costs.  
-You can the Gate by checking donation address:
+You can test the Gate by sending XMR to a donation address:
 ```
 address:  
 45dZruKBeAFcBkoFckTTonJPDUDFcPkUMdSebg2YTE8mTaBbhnv9DWwR9DYvfqKXjn8M49XpTcLw8c5mZ457etvuP8e9DDC  
