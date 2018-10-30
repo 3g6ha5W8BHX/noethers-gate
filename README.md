@@ -1,6 +1,13 @@
 # Noether's Gate  
 Noether's Gate - cryptocurrency transactions over Bitmessage network  
 
+## WTF
+Basically Bitmessage is P2P trustless, metadata free network where any message sent to the network is broadcasted to every node - it uses code from bitcoin. Every node will try to decrypt every passing message with all private keys, if sucessful, the message is for you.  
+
+What I have done is, that I created a listening script on a BM address which will decrypt a message and send it to multiple remote Monero nodes. It is basically transaction proxy on a steroids as the BM network is metadata free where hundreds of nodes are just reposting messages.  
+
+`script.py` is what I run on a server, nothing that should be used when you want to just send the transaction.  
+
 ## Steps  
 1. Start your local `monero-wallet-cli`:  
 ```
